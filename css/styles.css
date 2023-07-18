@@ -210,7 +210,7 @@ a {
 @media (min-resolution: 192dpi) {
     .order-section {
         background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(/images/bg/people-office-mobile@x2.jpg);
+            url(/images/bg/people-office-mobile.jpg);
     }
 }
 
@@ -1018,7 +1018,7 @@ a {
     @media (min-resolution: 192dpi) {
         .order-section {
             background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-                url(/images/bg/people-office-tablet@x2.jpg);
+                url(/images/bg/people-office-tablet.jpg);
         }
     }
 
