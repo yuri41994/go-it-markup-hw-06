@@ -209,8 +209,8 @@ a {
 
 @media (min-resolution: 192dpi) {
     .order-section {
-        /* background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(/images/people-office-mobile@x2.jpg); */
+        background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+            url(/images/people-office-mobile@x2.jpg);
     }
 }
 
@@ -1017,8 +1017,8 @@ a {
 
     @media (min-resolution: 192dpi) {
         .order-section {
-            /* background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-                url(/images/people-office-tablet@x2.jpg); */
+            background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+                url(/images/people-office-tablet@x2.jpg);
         }
     }
 
