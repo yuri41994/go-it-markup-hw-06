@@ -200,7 +200,7 @@ a {
     background-color: var(--color-heder-link);
     padding: 112px 0;
     background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url(/images/people-office-mobile.jpg);
+        url(/images/bg/people-office-mobile.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -210,7 +210,7 @@ a {
 @media (min-resolution: 192dpi) {
     .order-section {
         background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(/images/people-office-mobile@x2.jpg);
+            url(/images/bg/people-office-mobile@x2.jpg);
     }
 }
 
@@ -1011,14 +1011,14 @@ a {
     .order-section {
         padding: 112px 0;
         background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(/images/people-office-tablet.jpg);
+            url(/images/bg/people-office-tablet.jpg);
         margin: 0 auto;
     }
 
     @media (min-resolution: 192dpi) {
         .order-section {
             background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-                url(/images/people-office-tablet@x2.jpg);
+                url(/images/bg/people-office-tablet@x2.jpg);
         }
     }
 
@@ -1248,7 +1248,7 @@ a {
         background-color: var(--color-heder-link);
         padding: 188px 0;
         background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(../images/people_office_1.jpg);
+            url(../images/bg/people_office_1.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -1259,7 +1259,7 @@ a {
     @media (min-resolution: 192dpi) {
         .order-section {
             background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-                url(../images/people_office_1.jpg);
+                url(../images/bg/people_office_1.jpg);
         }
     }
 
@@ -1269,7 +1269,7 @@ a {
     .order-section {
         padding: 188px 0;
         background-image: linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-            url(../images/people_office_1.jpg);
+            url(../images/bg/people_office_1.jpg);
         max-width: 1440px;
     }
 
